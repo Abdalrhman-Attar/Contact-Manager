@@ -1,0 +1,9 @@
+/* ListTitle.css */
+
+.list-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #333;
+}
